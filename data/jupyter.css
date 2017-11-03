@@ -1,0 +1,13 @@
+<style>
+    .container {
+        width: 99%;
+    }   
+    div.cell{
+        width: 99%;
+        margin-left: 1%;
+        margin-right: auto;
+    }
+    div.cell.selected {
+        border-left-width: 1px;
+    }
+</style>

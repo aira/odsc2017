@@ -26,4 +26,6 @@
 * Shmalko, [lexica and slang normalizers](https://github.com/rasendubi/noisy-text/tree/master/data
 * [retrieval-based vs rule-based and new modular approach](http://www.aclweb.org/old_anthology/C/C14/C14-1088.pdf)
 * [retrieval-based bot](https://export.arxiv.org/pdf/1612.01627)
+* [cursing is an indication of literacy](http://www.sciencedirect.com/science/article/pii/S038800011400151X)
+* [cursing can give you power and happiness](https://www.newyorker.com/tech/elements/why-swearing-makes-you-stronger)
 
