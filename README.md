@@ -1,7 +1,7 @@
 # Training a Prosocial Chatbot
 
-2017 ODSC West Workshop
-San Francisco
+2017 ODSC West Workshop  
+San Francisco  
 
 Hobson Lane  
 *Head of Artificial Intelligence*  
